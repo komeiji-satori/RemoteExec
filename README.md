@@ -1,5 +1,8 @@
 # RemoteExec
 
+#### Required Libarary
+
+https://pecl.php.net/package/ssh2
 
 ### Demo
 
